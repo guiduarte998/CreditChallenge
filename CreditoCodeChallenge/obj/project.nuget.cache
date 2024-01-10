@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wjBHqsh23tdhE29PDhL4m3Sx9/TThWeCOUrkBZEJh4OPddbHtUMoqYizSv2itd5oUIJhNHLKxV1u5oF4yx3wtw==",
+  "dgSpecHash": "3FqamqowbLAexKy5an1V3seJPls3CPPWtDBtEVVHAyJZpdU9yC98ANiONCIFev2OFXGFhVyFvUf7e1PikJY4NQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\CreditoCodeChallenge\\CreditoCodeChallenge.csproj",
+  "projectFilePath": "F:\\Estudo\\Credit\\CreditoCodeChallenge\\CreditoCodeChallenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

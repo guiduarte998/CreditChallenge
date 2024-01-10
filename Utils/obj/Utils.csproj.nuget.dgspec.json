@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Utils\\Utils.csproj": {}
+    "F:\\Estudo\\Credit\\Utils\\Utils.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Utils\\Utils.csproj": {
+    "F:\\Estudo\\Credit\\Utils\\Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Utils\\Utils.csproj",
+        "projectUniqueName": "F:\\Estudo\\Credit\\Utils\\Utils.csproj",
         "projectName": "Utils",
-        "projectPath": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Utils\\Utils.csproj",
+        "projectPath": "F:\\Estudo\\Credit\\Utils\\Utils.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Utils\\obj\\",
+        "outputPath": "F:\\Estudo\\Credit\\Utils\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

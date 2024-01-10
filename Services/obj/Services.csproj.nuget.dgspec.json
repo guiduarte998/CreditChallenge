@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Services\\Services.csproj": {}
+    "F:\\Estudo\\Credit\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Models\\Models.csproj": {
+    "F:\\Estudo\\Credit\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Models\\Models.csproj",
+        "projectUniqueName": "F:\\Estudo\\Credit\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Models\\Models.csproj",
+        "projectPath": "F:\\Estudo\\Credit\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Models\\obj\\",
+        "outputPath": "F:\\Estudo\\Credit\\Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Utils\\Utils.csproj": {
-                "projectPath": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Utils\\Utils.csproj"
+              "F:\\Estudo\\Credit\\Utils\\Utils.csproj": {
+                "projectPath": "F:\\Estudo\\Credit\\Utils\\Utils.csproj"
               }
             }
           }
@@ -68,21 +63,17 @@
         }
       }
     },
-    "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Services\\Services.csproj": {
+    "F:\\Estudo\\Credit\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Services\\Services.csproj",
+        "projectUniqueName": "F:\\Estudo\\Credit\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Services\\Services.csproj",
+        "projectPath": "F:\\Estudo\\Credit\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Services\\obj\\",
+        "outputPath": "F:\\Estudo\\Credit\\Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,18 +81,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Models\\Models.csproj"
+              "F:\\Estudo\\Credit\\Models\\Models.csproj": {
+                "projectPath": "F:\\Estudo\\Credit\\Models\\Models.csproj"
               },
-              "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Utils\\Utils.csproj": {
-                "projectPath": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Utils\\Utils.csproj"
+              "F:\\Estudo\\Credit\\Utils\\Utils.csproj": {
+                "projectPath": "F:\\Estudo\\Credit\\Utils\\Utils.csproj"
               }
             }
           }
@@ -135,21 +125,17 @@
         }
       }
     },
-    "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Utils\\Utils.csproj": {
+    "F:\\Estudo\\Credit\\Utils\\Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Utils\\Utils.csproj",
+        "projectUniqueName": "F:\\Estudo\\Credit\\Utils\\Utils.csproj",
         "projectName": "Utils",
-        "projectPath": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Utils\\Utils.csproj",
+        "projectPath": "F:\\Estudo\\Credit\\Utils\\Utils.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilh\\source\\repos\\CreditCodeChallenge\\Utils\\obj\\",
+        "outputPath": "F:\\Estudo\\Credit\\Utils\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,7 +143,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
