@@ -1,0 +1,11 @@
+C:\Users\guilh\source\repos\CreditCodeChallenge\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\guilh\source\repos\CreditCodeChallenge\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\guilh\source\repos\CreditCodeChallenge\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\guilh\source\repos\CreditCodeChallenge\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\CreditCodeChallenge\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\CreditCodeChallenge\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\guilh\source\repos\CreditCodeChallenge\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\CreditCodeChallenge\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\guilh\source\repos\CreditCodeChallenge\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\guilh\source\repos\CreditCodeChallenge\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\guilh\source\repos\CreditCodeChallenge\Utils\obj\Debug\net8.0\ref\Utils.dll
